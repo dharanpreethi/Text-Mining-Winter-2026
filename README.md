@@ -1,1 +1,3 @@
 Text Mining Course
+
+[Link to syllabus](https://docs.google.com/document/d/e/2PACX-1vTcc_DcPbgoqzYlJyTLYDCm6k4bmZBuhC_6AZrrG4N8s9XKz7TApXhroXlAou5bYZ2B7K46AIRf3Xta/pub)
