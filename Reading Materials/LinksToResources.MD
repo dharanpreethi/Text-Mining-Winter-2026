@@ -7,3 +7,6 @@
 [Mining Embodied Emotions: A Comparative Analysis of Sentiment and Emotion in Dutch Texts, 1600-1800 by Inger Leemans, Janneke M. van der Zwaan, Isa Maks,Erika Kuijpers and Kristine Steenbergh](https://dhq.digitalhumanities.org/vol/11/4/000343/000343.html)
 
 Sentiment analysis abstracts from ADHO conferences [DH2023](https://zenodo.org/records/7961822), [DH2024](https://zenodo.org/records/13834936)
+
+**2. TF-IDF**
+**[Analyzing Documents with TF-IDF](https://programminghistorian.org/en/lessons/analyzing-documents-with-tfidf#fnref:8)
