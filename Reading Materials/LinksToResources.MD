@@ -9,4 +9,4 @@
 Sentiment analysis abstracts from ADHO conferences [DH2023](https://zenodo.org/records/7961822), [DH2024](https://zenodo.org/records/13834936)
 
 **2. TF-IDF**
-**[Analyzing Documents with TF-IDF](https://programminghistorian.org/en/lessons/analyzing-documents-with-tfidf#fnref:8)
+[Analyzing Documents with TF-IDF](https://programminghistorian.org/en/lessons/analyzing-documents-with-tfidf#fnref:8)
