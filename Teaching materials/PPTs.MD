@@ -1,2 +1,9 @@
 1. [Introduction to Text Mining Course](https://docs.google.com/presentation/d/1cYG76_9EVP0Oa85MF-gtn4aHRcb6N_ukJT921jhOrxw/edit?usp=sharing)
 2. [Introduction to Text Mining](https://docs.google.com/presentation/d/10NPugQTSJNKfVzCGSlZR5Is54oJ-GPsB_U0ODvi7u9s/edit?usp=sharing)
+3. [Sentiment Analysis1](https://docs.google.com/presentation/d/1lLzPKdBrMDmeQz6zogmeAn3WRe0DYIi6rnESwwqqduE/edit?usp=sharing)
+4. [Sentiment Analysis2](https://docs.google.com/presentation/d/1DotiIaP7rgNUvIA5KvwRYgBkryl97af5KjOfTcEQHJI/edit?usp=sharing)
+5. [BOW and TF-IDF](https://docs.google.com/presentation/d/1_EIuJ4hVlX0eR4bZjHBqRkNR658tkDrNBNl5YnNIs28/edit?usp=sharing)
+6. [Topic Modeling1](https://docs.google.com/presentation/d/1OSLv2tyS0IkJn19QqS0CvqKHGrtLU_1ahwtOT3Hwpe0/edit?usp=sharing), 
+7. [Topic Modeling2](https://docs.google.com/presentation/d/1W4tq0cSsV2-9dUj04xBar4NMgxHx-q_TbK85-0G2j-I/edit?usp=sharing)
+8. [Topic modeling3](https://docs.google.com/presentation/d/1bjImOnwFQXIsff8WbbI1iKErueBsKV32bJKFDlN5dPk/edit?usp=sharing)
+9. [Clustering Methods](https://docs.google.com/presentation/d/1LcfwhL0x1zw3XeXOZI6K98Q3OAb_UdFc4nPBXkJM3BU/edit?usp=sharing)
