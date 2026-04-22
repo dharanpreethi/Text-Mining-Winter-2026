@@ -6,4 +6,8 @@
 6. [Topic Modeling1](https://docs.google.com/presentation/d/1OSLv2tyS0IkJn19QqS0CvqKHGrtLU_1ahwtOT3Hwpe0/edit?usp=sharing), 
 7. [Topic Modeling2](https://docs.google.com/presentation/d/1W4tq0cSsV2-9dUj04xBar4NMgxHx-q_TbK85-0G2j-I/edit?usp=sharing)
 8. [Topic modeling3](https://docs.google.com/presentation/d/1bjImOnwFQXIsff8WbbI1iKErueBsKV32bJKFDlN5dPk/edit?usp=sharing)
+9. [Distance Metrics](https://docs.google.com/presentation/d/1FMVBBLy2ipEoR-mOAtXXiip7NfJ_O3B-x_coeggmcG0/edit?usp=sharing)
 9. [Clustering Methods](https://docs.google.com/presentation/d/1LcfwhL0x1zw3XeXOZI6K98Q3OAb_UdFc4nPBXkJM3BU/edit?usp=sharing)
+10. [Word Embedding](https://docs.google.com/presentation/d/1DCJY0ckFKC-AVi86dLye0S9Qxv06PSgSI2We3Ue5wi8/edit?usp=sharing)
+11. [Transformer](https://docs.google.com/presentation/d/1KVO7NtVJEquLRYVo4jooJTrEtQvODkJwu-ftEG4nQ1Y/edit?usp=sharing)
+12. [RAG and Responisble Text Mining](https://docs.google.com/presentation/d/1BQvz1QGxrbyzpv6WKsOZoigdhuamOZBVuBCH4pjDl1o/edit?usp=sharing)
